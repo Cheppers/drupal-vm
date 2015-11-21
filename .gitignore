@@ -9,3 +9,6 @@ drupal.make.yml
 examples/prod/inventory
 scripts/
 roles/
+custom_playbook.yml
+custom_tasks
+custom_templates
